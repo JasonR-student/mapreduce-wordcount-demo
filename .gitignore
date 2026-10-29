@@ -1,0 +1,6 @@
+target/
+output_local*/
+hadoop-3.3.5-windows/
+.idea/
+*.iml
+*.log
